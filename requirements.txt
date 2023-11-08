@@ -1,0 +1,12 @@
+spacy
+nltk
+phonenumbers
+PyPDF2
+pytesseract
+Pillow
+sklearn
+torch
+transformers
+python-multipart
+fastapi
+uvicorn
